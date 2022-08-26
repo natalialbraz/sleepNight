@@ -12,11 +12,15 @@
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/drawable/ic_sleep_3.xml" value="0.1" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/drawable/ic_sleep_4.xml" value="0.1" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/drawable/ic_sleep_5.xml" value="0.1" />
+        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/drawable/ic_sleep_active.xml" value="0.1" />
+        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/drawable/ic_sleep_activity.xml" value="0.11" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/font/roboto.xml" value="0.11197916666666667" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/activity_main.xml" value="0.10612968591691996" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.1" />
-        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1" />
+        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.15" />
         <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/fragment_sleep_tracker2.xml" value="0.1" />
+        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/list_item_sleep_night.xml" value="0.18" />
+        <entry key="..\:/Users/DTI Digital/Desktop/git/Android/personal/SleepNight/app/src/main/res/layout/text_item_view.xml" value="0.1" />
       </map>
     </option>
   </component>
